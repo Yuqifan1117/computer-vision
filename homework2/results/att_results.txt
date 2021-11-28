@@ -67169,3 +67169,6737 @@ result: correct
 image: ./homework2/att-face\s26\10.pgm
 result: correct
 
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
+image: ./homework2/att-face\s27\7.pgm
+result: correct
+
+image: ./homework2/att-face\s27\8.pgm
+result: correct
+
+image: ./homework2/att-face\s27\9.pgm
+result: correct
+
+image: ./homework2/att-face\s27\10.pgm
+result: correct
+
+image: ./homework2/att-face\s28\7.pgm
+result: correct
+
+image: ./homework2/att-face\s28\8.pgm
+result: wrong, got 37
+
+image: ./homework2/att-face\s28\9.pgm
+result: correct
+
+image: ./homework2/att-face\s28\10.pgm
+result: correct
+
+image: ./homework2/att-face\s29\7.pgm
+result: correct
+
+image: ./homework2/att-face\s29\8.pgm
+result: correct
+
+image: ./homework2/att-face\s29\9.pgm
+result: correct
+
+image: ./homework2/att-face\s29\10.pgm
+result: correct
+
+image: ./homework2/att-face\s30\7.pgm
+result: correct
+
+image: ./homework2/att-face\s30\8.pgm
+result: correct
+
+image: ./homework2/att-face\s30\9.pgm
+result: correct
+
+image: ./homework2/att-face\s30\10.pgm
+result: correct
+
+image: ./homework2/att-face\s31\7.pgm
+result: correct
+
+image: ./homework2/att-face\s31\8.pgm
+result: correct
+
+image: ./homework2/att-face\s31\9.pgm
+result: correct
+
+image: ./homework2/att-face\s31\10.pgm
+result: correct
+
+image: ./homework2/att-face\s32\7.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s32\8.pgm
+result: correct
+
+image: ./homework2/att-face\s32\9.pgm
+result: correct
+
+image: ./homework2/att-face\s32\10.pgm
+result: correct
+
+image: ./homework2/att-face\s33\7.pgm
+result: correct
+
+image: ./homework2/att-face\s33\8.pgm
+result: wrong, got 30
+
+image: ./homework2/att-face\s33\9.pgm
+result: correct
+
+image: ./homework2/att-face\s33\10.pgm
+result: correct
+
+image: ./homework2/att-face\s34\7.pgm
+result: correct
+
+image: ./homework2/att-face\s34\8.pgm
+result: correct
+
+image: ./homework2/att-face\s34\9.pgm
+result: correct
+
+image: ./homework2/att-face\s34\10.pgm
+result: correct
+
+image: ./homework2/att-face\s35\7.pgm
+result: correct
+
+image: ./homework2/att-face\s35\8.pgm
+result: wrong, got 25
+
+image: ./homework2/att-face\s35\9.pgm
+result: correct
+
+image: ./homework2/att-face\s35\10.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s36\7.pgm
+result: correct
+
+image: ./homework2/att-face\s36\8.pgm
+result: correct
+
+image: ./homework2/att-face\s36\9.pgm
+result: correct
+
+image: ./homework2/att-face\s36\10.pgm
+result: correct
+
+image: ./homework2/att-face\s37\7.pgm
+result: correct
+
+image: ./homework2/att-face\s37\8.pgm
+result: correct
+
+image: ./homework2/att-face\s37\9.pgm
+result: correct
+
+image: ./homework2/att-face\s37\10.pgm
+result: correct
+
+image: ./homework2/att-face\s38\7.pgm
+result: correct
+
+image: ./homework2/att-face\s38\8.pgm
+result: correct
+
+image: ./homework2/att-face\s38\9.pgm
+result: correct
+
+image: ./homework2/att-face\s38\10.pgm
+result: correct
+
+image: ./homework2/att-face\s39\7.pgm
+result: wrong, got 29
+
+image: ./homework2/att-face\s39\8.pgm
+result: wrong, got 21
+
+image: ./homework2/att-face\s39\9.pgm
+result: correct
+
+image: ./homework2/att-face\s39\10.pgm
+result: correct
+
+image: ./homework2/att-face\s40\7.pgm
+result: correct
+
+image: ./homework2/att-face\s40\8.pgm
+result: correct
+
+image: ./homework2/att-face\s40\9.pgm
+result: correct
+
+image: ./homework2/att-face\s40\10.pgm
+result: correct
+
+Correct: 89.38
+image: ./homework2/att-face\s1\7.pgm
+result: correct
+
+image: ./homework2/att-face\s1\8.pgm
+result: wrong, got 16
+
+image: ./homework2/att-face\s1\9.pgm
+result: correct
+
+image: ./homework2/att-face\s1\10.pgm
+result: wrong, got 18
+
+image: ./homework2/att-face\s2\7.pgm
+result: correct
+
+image: ./homework2/att-face\s2\8.pgm
+result: correct
+
+image: ./homework2/att-face\s2\9.pgm
+result: correct
+
+image: ./homework2/att-face\s2\10.pgm
+result: correct
+
+image: ./homework2/att-face\s3\7.pgm
+result: correct
+
+image: ./homework2/att-face\s3\8.pgm
+result: correct
+
+image: ./homework2/att-face\s3\9.pgm
+result: wrong, got  4
+
+image: ./homework2/att-face\s3\10.pgm
+result: correct
+
+image: ./homework2/att-face\s4\7.pgm
+result: correct
+
+image: ./homework2/att-face\s4\8.pgm
+result: correct
+
+image: ./homework2/att-face\s4\9.pgm
+result: correct
+
+image: ./homework2/att-face\s4\10.pgm
+result: correct
+
+image: ./homework2/att-face\s5\7.pgm
+result: correct
+
+image: ./homework2/att-face\s5\8.pgm
+result: correct
+
+image: ./homework2/att-face\s5\9.pgm
+result: correct
+
+image: ./homework2/att-face\s5\10.pgm
+result: correct
+
+image: ./homework2/att-face\s6\7.pgm
+result: correct
+
+image: ./homework2/att-face\s6\8.pgm
+result: correct
+
+image: ./homework2/att-face\s6\9.pgm
+result: correct
+
+image: ./homework2/att-face\s6\10.pgm
+result: correct
+
+image: ./homework2/att-face\s7\7.pgm
+result: correct
+
+image: ./homework2/att-face\s7\8.pgm
+result: correct
+
+image: ./homework2/att-face\s7\9.pgm
+result: correct
+
+image: ./homework2/att-face\s7\10.pgm
+result: correct
+
+image: ./homework2/att-face\s8\7.pgm
+result: correct
+
+image: ./homework2/att-face\s8\8.pgm
+result: correct
+
+image: ./homework2/att-face\s8\9.pgm
+result: correct
+
+image: ./homework2/att-face\s8\10.pgm
+result: correct
+
+image: ./homework2/att-face\s9\7.pgm
+result: correct
+
+image: ./homework2/att-face\s9\8.pgm
+result: correct
+
+image: ./homework2/att-face\s9\9.pgm
+result: correct
+
+image: ./homework2/att-face\s9\10.pgm
+result: correct
+
+image: ./homework2/att-face\s10\7.pgm
+result: correct
+
+image: ./homework2/att-face\s10\8.pgm
+result: correct
+
+image: ./homework2/att-face\s10\9.pgm
+result: wrong, got 38
+
+image: ./homework2/att-face\s10\10.pgm
+result: wrong, got  3
+
+image: ./homework2/att-face\s11\7.pgm
+result: correct
+
+image: ./homework2/att-face\s11\8.pgm
+result: wrong, got 27
+
+image: ./homework2/att-face\s11\9.pgm
+result: correct
+
+image: ./homework2/att-face\s11\10.pgm
+result: correct
+
+image: ./homework2/att-face\s12\7.pgm
+result: correct
+
+image: ./homework2/att-face\s12\8.pgm
+result: correct
+
+image: ./homework2/att-face\s12\9.pgm
+result: wrong, got 40
+
+image: ./homework2/att-face\s12\10.pgm
+result: correct
+
+image: ./homework2/att-face\s13\7.pgm
+result: correct
+
+image: ./homework2/att-face\s13\8.pgm
+result: correct
+
+image: ./homework2/att-face\s13\9.pgm
+result: correct
+
+image: ./homework2/att-face\s13\10.pgm
+result: correct
+
+image: ./homework2/att-face\s14\7.pgm
+result: correct
+
+image: ./homework2/att-face\s14\8.pgm
+result: correct
+
+image: ./homework2/att-face\s14\9.pgm
+result: correct
+
+image: ./homework2/att-face\s14\10.pgm
+result: correct
+
+image: ./homework2/att-face\s15\7.pgm
+result: correct
+
+image: ./homework2/att-face\s15\8.pgm
+result: correct
+
+image: ./homework2/att-face\s15\9.pgm
+result: correct
+
+image: ./homework2/att-face\s15\10.pgm
+result: correct
+
+image: ./homework2/att-face\s16\7.pgm
+result: correct
+
+image: ./homework2/att-face\s16\8.pgm
+result: correct
+
+image: ./homework2/att-face\s16\9.pgm
+result: correct
+
+image: ./homework2/att-face\s16\10.pgm
+result: correct
+
+image: ./homework2/att-face\s17\7.pgm
+result: correct
+
+image: ./homework2/att-face\s17\8.pgm
+result: correct
+
+image: ./homework2/att-face\s17\9.pgm
+result: correct
+
+image: ./homework2/att-face\s17\10.pgm
+result: correct
+
+image: ./homework2/att-face\s18\7.pgm
+result: correct
+
+image: ./homework2/att-face\s18\8.pgm
+result: correct
+
+image: ./homework2/att-face\s18\9.pgm
+result: correct
+
+image: ./homework2/att-face\s18\10.pgm
+result: correct
+
+image: ./homework2/att-face\s19\7.pgm
+result: correct
+
+image: ./homework2/att-face\s19\8.pgm
+result: correct
+
+image: ./homework2/att-face\s19\9.pgm
+result: wrong, got  2
+
+image: ./homework2/att-face\s19\10.pgm
+result: correct
+
+image: ./homework2/att-face\s20\7.pgm
+result: correct
+
+image: ./homework2/att-face\s20\8.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\9.pgm
+result: wrong, got 23
+
+image: ./homework2/att-face\s20\10.pgm
+result: correct
+
+image: ./homework2/att-face\s21\7.pgm
+result: correct
+
+image: ./homework2/att-face\s21\8.pgm
+result: correct
+
+image: ./homework2/att-face\s21\9.pgm
+result: correct
+
+image: ./homework2/att-face\s21\10.pgm
+result: correct
+
+image: ./homework2/att-face\s22\7.pgm
+result: correct
+
+image: ./homework2/att-face\s22\8.pgm
+result: correct
+
+image: ./homework2/att-face\s22\9.pgm
+result: correct
+
+image: ./homework2/att-face\s22\10.pgm
+result: correct
+
+image: ./homework2/att-face\s23\7.pgm
+result: correct
+
+image: ./homework2/att-face\s23\8.pgm
+result: correct
+
+image: ./homework2/att-face\s23\9.pgm
+result: correct
+
+image: ./homework2/att-face\s23\10.pgm
+result: correct
+
+image: ./homework2/att-face\s24\7.pgm
+result: correct
+
+image: ./homework2/att-face\s24\8.pgm
+result: correct
+
+image: ./homework2/att-face\s24\9.pgm
+result: correct
+
+image: ./homework2/att-face\s24\10.pgm
+result: correct
+
+image: ./homework2/att-face\s25\7.pgm
+result: correct
+
+image: ./homework2/att-face\s25\8.pgm
+result: correct
+
+image: ./homework2/att-face\s25\9.pgm
+result: correct
+
+image: ./homework2/att-face\s25\10.pgm
+result: correct
+
+image: ./homework2/att-face\s26\7.pgm
+result: correct
+
+image: ./homework2/att-face\s26\8.pgm
+result: correct
+
+image: ./homework2/att-face\s26\9.pgm
+result: correct
+
+image: ./homework2/att-face\s26\10.pgm
+result: correct
+
