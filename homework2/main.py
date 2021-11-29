@@ -71,7 +71,7 @@ def loadImg(file_dir,energy):
     # 100个特征脸
     # 创建画布和子图对象
     # fig, axes = plt.subplots(1,10
-    #                    ,figsize=(15,15)
+    #                    ,figsize=(20,2)
     #                    ,subplot_kw = {"xticks":[],"yticks":[]} #不要显示坐标轴
     #                    )
     # #填充图像
@@ -95,8 +95,7 @@ def classify(path_to_img, i):
             TrainVec = np.matmul(eigenface.T,L[:, j])
             if (array(S-TrainVec)**2).sum() < resVal:
                 res =  i
-                resVal = (array(S-TrainVec)**2).sum()                                                                            # Eigenspace, to find out the weights
-
+                resVal = (array(S-TrainVec)**2).sum()                                                                            
     return res+1           # return the faceid (1..40)
 
 def construct(j):
@@ -128,7 +127,7 @@ def evaluate(faces_dir):
     total_correct = []
     PCs = []
     # 记录随着PCs的增加,识别能力的增加
-    for i in range(200):
+    for i in range(201):
         test_correct = 0
         for face_id in range(1, 40 + 1):
             for test_id in range(7, 11):
@@ -162,8 +161,7 @@ if __name__ == '__main__':
     file_list = './homework2/att-face'
     # 评估eigenface训练结果，完成人脸识别
     evaluate(file_list)
-    # print(classify(file_list,10))
     # 得到特征脸
     # loadImg(file_list,10)
     # 重构人脸
-    # construct(2)
+    # construct(3)
