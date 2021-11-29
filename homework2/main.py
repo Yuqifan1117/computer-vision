@@ -8,9 +8,9 @@ from numpy.linalg.linalg import eig
 import matplotlib.pyplot as plt 
 
 training_ids = []      
-faces_count = 40        # 40个人脸
-train_faces_count = 6   # 60%用于训练集
-test_faces_count = 4    # 40%用于测试集
+faces_count = 41        # 41个人脸
+train_faces_count = 5   # 50%用于训练集
+test_faces_count = 5    # 50%用于测试集
 l = train_faces_count * faces_count
 m = 92
 n = 112
@@ -22,9 +22,9 @@ def loadImg(file_dir,energy):
                 
     cur_img = 0
     
-    for face_id in range(1, 40 + 1):
+    for face_id in range(41):
         # 随机选取训练图片
-        ids = [1,2,3,4,5,6]
+        ids = [1,2,3,4,5]
         training_ids.append(ids)                            
         for training_id in ids:
             path_to_img = os.path.join(file_dir,
@@ -89,9 +89,9 @@ def classify(path_to_img, i):
     S = np.matmul(eigenface.T, img_col)  
     resVal = inf
     res = 0
-    for i in range(40):  
-        for m in range(6):
-            j = i*6 + m                       
+    for i in range(41):  
+        for m in range(5):
+            j = i*5 + m                       
             TrainVec = np.matmul(eigenface.T,L[:, j])
             if (array(S-TrainVec)**2).sum() < resVal:
                 res =  i
@@ -103,18 +103,18 @@ def construct(j):
     # TrainVec = np.matmul(eigenface.T, L[:, j])
     # 输出重构的近似人脸
     
-    fig, axes = plt.subplots(1,10
-                       ,figsize=(20,10)
-                       ,subplot_kw = {"xticks":[],"yticks":[]} #不要显示坐标轴
+    fig, axes = plt.subplots(1,5
+                       ,figsize=(20,3)
                        )
-    i = 10
-
+    i=0
+    x = [10,25,50,75,100]
     for h, ax in enumerate(axes.flat):
-        eigenface, avg_face, eigVects = loadImg(file_list,i)
+        eigenface, avg_face, eigVects = loadImg(file_list,x[i])
         print(eigVects[j].shape)
         # pic_pca = np.matmul(eigVects[j],pic)
-        ax.imshow(avg_face.reshape(112,92) + np.matmul(eigenface, eigVects[j]).reshape(112, 92), cmap="gray") # np.dot()矩阵乘法
-        i = i + 20
+        ax.imshow(avg_face.reshape(112,92) + np.matmul(eigenface, eigVects[j]).reshape(112, 92), cmap="gray") # np.dot()矩阵乘法 
+        ax.set_title('%iPCs'%x[i])
+        i = i+1 
     plt.savefig('homework2/face_reconstruct.png')
     plt.show()
 def evaluate(faces_dir):
@@ -122,15 +122,15 @@ def evaluate(faces_dir):
     results_file = os.path.join('homework2/results', 'att_results.txt')               
     f = open(results_file, 'w')                                             
 
-    test_count = 4 * 40               
+    test_count = 5 * 41               
         
     total_correct = []
     PCs = []
     # 记录随着PCs的增加,识别能力的增加
     for i in range(201):
         test_correct = 0
-        for face_id in range(1, 40 + 1):
-            for test_id in range(7, 11):
+        for face_id in range(0, 41):
+            for test_id in range(6, 11):
                             
                 path_to_img = os.path.join(faces_dir,
                         's' + str(face_id), str(test_id) + '.pgm')          
@@ -160,8 +160,8 @@ def evaluate(faces_dir):
 if __name__ == '__main__':
     file_list = './homework2/att-face'
     # 评估eigenface训练结果，完成人脸识别
-    evaluate(file_list)
+    # evaluate(file_list)
     # 得到特征脸
     # loadImg(file_list,10)
     # 重构人脸
-    # construct(3)
+    construct(1)
